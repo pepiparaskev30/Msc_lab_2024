@@ -29,7 +29,7 @@ H εξοικείωση των φοιτητών με την ανάλυση δεδ
 - Εντοπισμός Τασης και εκλειπόντων τιμών
 - Καθαρισμός δεδομένων (αφαίρεση Τάσης και διαχείριση εκλειπόντων τιμών)
 - Μοντελοποίηση
-    - Simple Moving Average
+    - Simple Moving Average combined wih Linear Regression
     - Exponential Smmothing
     - ARIMA 
 - Αξιολόγηση 
