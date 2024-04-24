@@ -23,6 +23,17 @@ H εξοικείωση των φοιτητών με την ανάλυση δεδ
 
 - H πρόσβαση στο σημειωματάριο ειναι ανοικτή για τους φοιτητές, χωρίς δικαιώμα παρέμβασης στον εν λόγω πηγαίο κώδικα
 
+### Δομή Άσκησης
+- Εισαγωγή δεδομένων
+- Οπτικοποίηση δεδομένων
+- Εντοπισμός Τασης και εκλειπόντων τιμών
+- Καθαρισμός δεδομένων (αφαίρεση Τάσης και διαχείριση εκλειπόντων τιμών)
+- Μοντελοποίηση
+    - Simple Moving Average
+    - Exponential Smmothing
+    - ARIMA 
+- Αξιολόγηση 
+
 ### Directories
 
 - [src](src): Εμπεριέχει το .ipynb σημειώματαριο (Jupyter Notebook) (**Timeseries_Msc_lab_Information_Systems_and_Services_2024**) με ολόκληρο τον πηγαίο κώδικα που απαιτείται για την ανάλυση χρονοσειρών
@@ -30,6 +41,23 @@ H εξοικείωση των φοιτητών με την ανάλυση δεδ
 - [data](data): Εμπεριέχει το σύνολο δεδομένων - που αναλύεται. Λεπτομέρειες περι των δεδομένων αναφέρονται στο .ipynb σημειώματαριο. 
 
 <br>
+
+
+
+
+### Παραδείγματα για ανάλυση χρονοσειρών
+
+[Παράδειγμα 1: Aνάλυση χρονοσειρών με στατιστικά μοντέλα ARMA και ARIMA](https://www.kaggle.com/code/purvasingh/time-series-analysis-with-arma-and-arima)
+
+
+[Παράδειγμα 2: Ανάλυση Χρονοσειράς, οπτικοποίηση δεδομένων](https://www.kaggle.com/code/smorika/eda-and-visualization-on-time-series-dataset)
+
+[Παράδειγμα 3: Ανάλυση Χρονοσειράς, πρακτική εφαρμογή κινητού μέσου](https://www.kaggle.com/code/hackermanx/time-series-analysis-moving-average-methods)
+
+[Παράδειγμα 4: Ανάλυση Χρονοσειρών, πρακτική εφαρμογή με μοντέλα Deep Learning](https://www.kaggle.com/code/dimitreoliveira/deep-learning-for-time-series-forecasting)
+
+
+
 
 ### Composer - Maintainer 
 
